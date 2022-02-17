@@ -1,2 +1,2 @@
-# SatelliteHardware
-PyCubedMini Core Satellite Hardware
+# Solar Panels
+PyCubedMini Solar Panel KiCAD projects.

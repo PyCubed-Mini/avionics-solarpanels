@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 37,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [],
@@ -33,7 +33,6 @@
       3,
       4,
       5,
-      6,
       8,
       9,
       10,
@@ -67,7 +66,7 @@
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "SolarCell+Y.kicad_prl",
+    "filename": "SolarCellZ_v1.kicad_prl",
     "version": 3
   },
   "project": {

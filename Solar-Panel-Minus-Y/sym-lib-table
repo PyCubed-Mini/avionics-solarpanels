@@ -1,4 +1,4 @@
 (sym_lib_table
-  (lib (name ypanel_lib)(type Legacy)(uri ${KIPRJMOD}/ypanel_lib.lib)(options "")(descr ""))
-  (lib (name ypanel-rescue)(type Legacy)(uri ${KIPRJMOD}/ypanel-rescue.lib)(options "")(descr ""))
+  (lib (name "misc-circuits-cache")(type "Legacy")(uri "${KIPRJMOD}/Libraries/misc-circuits-cache.lib")(options "")(descr ""))
+  (lib (name "SolarCellParts")(type "Legacy")(uri "${KIPRJMOD}/Libraries/SolarCellParts.lib")(options "")(descr ""))
 )

@@ -1,5 +1,4 @@
 (fp_lib_table
-  (lib (name SolarCellX)(type KiCad)(uri ${KIPRJMOD}/Footprints/SolarCellX.pretty)(options "")(descr ""))
-  (lib (name solarpcb)(type KiCad)(uri ${KIPRJMOD}/solarpcb.pretty)(options "")(descr ""))
-  (lib (name spacecraft-footprints)(type KiCad)(uri ${SPACECRAFT_LIB_DIR}/spacecraft-footprints.pretty)(options "")(descr ""))
+  (lib (name "misc-circuits")(type "KiCad")(uri "${KIPRJMOD}/Libraries/misc-circuits.pretty")(options "")(descr ""))
+  (lib (name "SolarCellParts")(type "KiCad")(uri "${KIPRJMOD}/Libraries/SolarCellParts.pretty")(options "")(descr ""))
 )

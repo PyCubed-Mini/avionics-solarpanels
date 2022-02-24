@@ -1,4 +1,4 @@
 (sym_lib_table
-  (lib (name SolarCellX_v3-rescue)(type Legacy)(uri ${KIPRJMOD}/SolarCellX_v3-rescue.lib)(options "")(descr ""))
-  (lib (name SolarCellParts)(type Legacy)(uri ${KIPRJMOD}/Libraries/SolarCellParts.lib)(options "")(descr ""))
+  (lib (name "misc-circuits-cache")(type "Legacy")(uri "${KIPRJMOD}/Libraries/misc-circuits-cache.lib")(options "")(descr ""))
+  (lib (name "SolarCellParts")(type "Legacy")(uri "${KIPRJMOD}/Libraries/SolarCellParts.lib")(options "")(descr ""))
 )

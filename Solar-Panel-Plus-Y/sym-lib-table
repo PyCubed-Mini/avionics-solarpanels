@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name "misc-circuits-cache")(type "Legacy")(uri "${KIPRJMOD}/Libraries/misc-circuits-cache.lib")(options "")(descr ""))
   (lib (name "SolarCellParts")(type "Legacy")(uri "${KIPRJMOD}/Libraries/SolarCellParts.lib")(options "")(descr ""))
+  (lib (name "Hirose U.FL-R-SMT-1")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Hirose U.FL-R-SMT-1.kicad_sym")(options "")(descr ""))
 )

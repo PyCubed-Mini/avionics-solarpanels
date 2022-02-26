@@ -62,11 +62,11 @@
       35,
       36
     ],
-    "visible_layers": "0001010_80000000",
+    "visible_layers": "00010b0_8000001f",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "SolarCellZ_v1.kicad_prl",
+    "filename": "SolarCellZ.kicad_prl",
     "version": 3
   },
   "project": {

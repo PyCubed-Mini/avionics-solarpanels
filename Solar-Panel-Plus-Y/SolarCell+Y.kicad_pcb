@@ -431,7 +431,7 @@
 
   (footprint "custom-footprints:ypanel" (layer "F.Cu")
     (tedit 6214502D) (tstamp 00000000-0000-0000-0000-00005df8fd1e)
-    (at 152.4 94.975 -90)
+    (at 152.4 94.974994 -90)
     (attr through_hole)
     (fp_text reference "Ref**" (at 0 0 90) (layer "F.SilkS") hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))

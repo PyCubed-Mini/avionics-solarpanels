@@ -5,9 +5,13 @@
   (paper "USLegal")
 
   (title_block
-    (title "Solar Panel Board X")
-    (date "2022-02-23")
+    (title "PyCubed Mini")
+    (date "2022-03-04")
     (rev "3")
+    (company "REx Lab Carnegie Mellon University")
+    (comment 1 "Z.Manchester")
+    (comment 2 "N.Khera")
+    (comment 3 "M.Holliday")
   )
 
   (lib_symbols
@@ -1902,6 +1906,10 @@
   (text "Light Sensor" (at 33.02 154.94 0)
     (effects (font (size 4 4)) (justify left bottom))
     (uuid afb78535-c03c-473c-aa17-ee58f1ab03fa)
+  )
+  (text "Solar Panel Board X" (at 262.382 182.118 0)
+    (effects (font (size 3.81 3.81) (thickness 0.762) bold) (justify left bottom))
+    (uuid b183adec-ef65-4ad2-8972-7ecf4e88b1a1)
   )
   (text "VOUT=1.21V*((ROUT2+ROUT1)/ROUT1)" (at 93.218 134.366 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))

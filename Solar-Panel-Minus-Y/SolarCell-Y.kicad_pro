@@ -48,8 +48,23 @@
           "min_clearance": 0.0
         }
       },
-      "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
+      "drc_exclusions": [
+        "clearance|117911644|67895060|caa9b7ba-dc1c-4e57-ab2b-75aa5590f0f6|7ebe6a24-0257-4816-a151-7d7f5c396092",
+        "clearance|117911644|70195060|628bd9ab-c640-4854-9a82-6818248251e6|74798a1c-8e7a-4be5-8ef0-76c69b60a9a4",
+        "clearance|120311644|70295060|570815f0-e413-4e63-b265-189f4f4884f5|370f9ba2-0fc8-407b-ab9b-81c0bb7f2726",
+        "clearance|120411644|67895060|8558364f-4a64-4872-9196-4e8571ebee96|6d853e4f-72e5-4a0e-a56e-7bba4939ab1f",
+        "clearance|151374756|90408140|370f9ba2-0fc8-407b-ab9b-81c0bb7f2726|570815f0-e413-4e63-b265-189f4f4884f5",
+        "clearance|151474756|92808140|6d853e4f-72e5-4a0e-a56e-7bba4939ab1f|8558364f-4a64-4872-9196-4e8571ebee96",
+        "clearance|153774756|90308140|74798a1c-8e7a-4be5-8ef0-76c69b60a9a4|628bd9ab-c640-4854-9a82-6818248251e6",
+        "clearance|153774756|92808140|7ebe6a24-0257-4816-a151-7d7f5c396092|caa9b7ba-dc1c-4e57-ab2b-75aa5590f0f6"
+      ],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
@@ -100,17 +115,17 @@
         "allow_blind_buried_vias": false,
         "allow_microvias": false,
         "max_error": 0.005,
-        "min_clearance": 0.0,
-        "min_copper_edge_clearance": 0.049999999999999996,
-        "min_hole_clearance": 0.25,
-        "min_hole_to_hole": 0.25,
-        "min_microvia_diameter": 0.19999999999999998,
-        "min_microvia_drill": 0.09999999999999999,
+        "min_clearance": 0.15239999999999998,
+        "min_copper_edge_clearance": 0.254,
+        "min_hole_clearance": 0.254,
+        "min_hole_to_hole": 0.254,
+        "min_microvia_diameter": 0.508,
+        "min_microvia_drill": 0.254,
         "min_silk_clearance": 0.0,
-        "min_through_hole_diameter": 0.3,
-        "min_track_width": 0.127,
-        "min_via_annular_width": 0.049999999999999996,
-        "min_via_diameter": 0.6,
+        "min_through_hole_diameter": 0.254,
+        "min_track_width": 0.15239999999999998,
+        "min_via_annular_width": 0.127,
+        "min_via_diameter": 0.508,
         "use_height_for_length_calcs": true
       },
       "track_widths": [
@@ -364,7 +379,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "ypanel.kicad_pro",
+    "filename": "SolarCell-Y.kicad_pro",
     "version": 1
   },
   "net_settings": {

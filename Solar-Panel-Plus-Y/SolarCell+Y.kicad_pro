@@ -48,8 +48,23 @@
           "min_clearance": 0.127
         }
       },
-      "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
+      "drc_exclusions": [
+        "clearance|109676416|60500580|1bdd5841-68b7-42e2-9447-cbdb608d8a08|04cf2f2c-74bf-400d-b4f6-201720df00ed",
+        "clearance|109776416|62900580|8b290a17-6328-4178-9131-29524d345539|79476267-290e-445f-995b-0afd0e11a4b5",
+        "clearance|112076416|60400580|d7e4abd8-69f5-4706-b12e-898194e5bf56|c25449d6-d734-4953-b762-98f82a830248",
+        "clearance|112076416|62900580|dca1d7db-c913-4d73-a2cc-fdc9651eda69|66bc2bca-dab7-4947-a0ff-403cdaf9fb89",
+        "clearance|178124016|63015180|1bdd5841-68b7-42e2-9447-cbdb608d8a08|04cf2f2c-74bf-400d-b4f6-201720df00ed",
+        "clearance|178224016|65415180|8b290a17-6328-4178-9131-29524d345539|79476267-290e-445f-995b-0afd0e11a4b5",
+        "clearance|180524016|62915180|d7e4abd8-69f5-4706-b12e-898194e5bf56|c25449d6-d734-4953-b762-98f82a830248",
+        "clearance|180524016|65415180|dca1d7db-c913-4d73-a2cc-fdc9651eda69|66bc2bca-dab7-4947-a0ff-403cdaf9fb89"
+      ],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
@@ -100,17 +115,17 @@
         "allow_blind_buried_vias": false,
         "allow_microvias": false,
         "max_error": 0.005,
-        "min_clearance": 0.0,
-        "min_copper_edge_clearance": 0.125,
-        "min_hole_clearance": 0.25,
-        "min_hole_to_hole": 0.25,
-        "min_microvia_diameter": 0.19999999999999998,
-        "min_microvia_drill": 0.09999999999999999,
+        "min_clearance": 0.15239999999999998,
+        "min_copper_edge_clearance": 0.127,
+        "min_hole_clearance": 0.254,
+        "min_hole_to_hole": 0.254,
+        "min_microvia_diameter": 0.508,
+        "min_microvia_drill": 0.254,
         "min_silk_clearance": 0.0,
-        "min_through_hole_diameter": 0.3,
-        "min_track_width": 0.127,
-        "min_via_annular_width": 0.049999999999999996,
-        "min_via_diameter": 0.6,
+        "min_through_hole_diameter": 0.254,
+        "min_track_width": 0.15239999999999998,
+        "min_via_annular_width": 0.127,
+        "min_via_diameter": 0.508,
         "use_height_for_length_calcs": true
       },
       "track_widths": [

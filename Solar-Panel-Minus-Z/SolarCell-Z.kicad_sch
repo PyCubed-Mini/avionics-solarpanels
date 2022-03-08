@@ -2885,7 +2885,7 @@
     (property "Value" "MountingHole_Pad" (id 1) (at 142.6972 179.07 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad" (id 2) (at 143.764 176.53 0)
+    (property "Footprint" "misc-circuits:Antenna Pad" (id 2) (at 143.764 176.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 143.764 176.53 0)
@@ -3983,7 +3983,7 @@
     (property "Value" "MountingHole_Pad" (id 1) (at 142.6972 189.23 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad" (id 2) (at 143.764 186.69 0)
+    (property "Footprint" "misc-circuits:Antenna Pad" (id 2) (at 143.764 186.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 143.764 186.69 0)
@@ -4569,10 +4569,10 @@
       (reference "D5") (unit 1) (value "SBDiode") (footprint "SolarCellParts:SB Diode")
     )
     (path "/20966b2d-14ff-4a15-8dcd-402836f98cb5"
-      (reference "H1") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_2.2mm_M2_Pad")
+      (reference "H1") (unit 1) (value "MountingHole_Pad") (footprint "misc-circuits:Antenna Pad")
     )
     (path "/e3fffc42-3290-4abc-87ee-001b481bfcd6"
-      (reference "H2") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_2.2mm_M2_Pad")
+      (reference "H2") (unit 1) (value "MountingHole_Pad") (footprint "misc-circuits:Antenna Pad")
     )
     (path "/f21bef62-2cc3-43f9-99b8-7d46dc07b791"
       (reference "J1") (unit 1) (value "XF2M-1015-1A") (footprint "misc-circuits:XF2M-1015-1A")

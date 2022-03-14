@@ -1,4 +1,3 @@
 (sym_lib_table
-  (lib (name "misc-circuits-cache")(type "Legacy")(uri "${KIPRJMOD}/Libraries/misc-circuits-cache.lib")(options "")(descr ""))
-  (lib (name "SolarCellParts")(type "Legacy")(uri "${KIPRJMOD}/Libraries/SolarCellParts.lib")(options "")(descr ""))
+  (lib (name "solarpanels")(type "KiCad")(uri "${KIPRJMOD}/../kicad-libs/solarpanels.kicad_sym")(options "")(descr ""))
 )

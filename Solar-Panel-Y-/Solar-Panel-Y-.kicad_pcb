@@ -79,7 +79,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "../gerbers/Gerbers-Y-")
+      (outputdirectory "../gerbers/Gerbers-Y- (07-06-22)/")
     )
   )
 
@@ -2262,8 +2262,8 @@
       (net 31 "BATT_P_SW") (pinfunction "Pin_1") (pintype "passive") (tstamp 5c8347d1-9c48-4021-9022-ac8fcb212937))
     (pad "2" smd roundrect (at 0.5 -1.325 270) (size 0.6 1.55) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 32 "BATT_N_SW") (pinfunction "Pin_2") (pintype "passive") (tstamp ebbefad6-7353-44f1-83e9-6b4dd697bb98))
-    (pad "MP" smd roundrect (at -1.8 1.2 270) (size 1.2 1.8) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.208333) (tstamp 8873f281-1814-4a2d-8bc2-01f4918f2311))
-    (pad "MP" smd roundrect (at 1.8 1.2 270) (size 1.2 1.8) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.208333) (tstamp b3197e2e-78d0-43d6-bdfc-12d0c0ac9ec3))
+    (pad "MP" smd roundrect (at -1.8 1.2 270) (size 1.2 1.8) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.2083333333) (tstamp 8873f281-1814-4a2d-8bc2-01f4918f2311))
+    (pad "MP" smd roundrect (at 1.8 1.2 270) (size 1.2 1.8) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.2083333333) (tstamp b3197e2e-78d0-43d6-bdfc-12d0c0ac9ec3))
     (model "C:/Users/Neil/Desktop/SolarPanels/kicad-libs/3d/BM02B-SRSS-TB.STEP"
       (offset (xyz 0 1.27 0))
       (scale (xyz 1 1 1))

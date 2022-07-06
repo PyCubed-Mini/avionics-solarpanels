@@ -79,7 +79,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "../gerbers/Gerbers-Y+")
+      (outputdirectory "../gerbers/Gerbers-Y+ (07-06-22)/")
     )
   )
 

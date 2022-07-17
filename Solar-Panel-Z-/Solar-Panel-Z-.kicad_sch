@@ -3366,7 +3366,7 @@
     (uuid 7b56f989-5970-46f1-b459-f3376f77fccc)
     (property "Reference" "J1" (id 0) (at 200.787 170.561 0))
     (property "Value" "TODO" (id 1) (at 201.168 186.309 0))
-    (property "Footprint" "solarpanels:GCT_FFC2B28-10-G" (id 2) (at 199.517 178.308 0)
+    (property "Footprint" "batteryboard:FTS-105-XX-YY-DV-A" (id 2) (at 199.517 178.308 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 199.517 178.308 0)
@@ -4509,7 +4509,7 @@
       (reference "H6") (unit 1) (value "MountingHole_Pad") (footprint "solarpanels:Antenna Pad")
     )
     (path "/7b56f989-5970-46f1-b459-f3376f77fccc"
-      (reference "J1") (unit 1) (value "TODO") (footprint "solarpanels:GCT_FFC2B28-10-G")
+      (reference "J1") (unit 1) (value "TODO") (footprint "batteryboard:FTS-105-XX-YY-DV-A")
     )
     (path "/ea2e338d-b9c8-4965-a217-a9a6c3864d0c"
       (reference "J2") (unit 1) (value "U.FL-R-SMT-1") (footprint "solarpanels:U.FL-R-SMT-1")

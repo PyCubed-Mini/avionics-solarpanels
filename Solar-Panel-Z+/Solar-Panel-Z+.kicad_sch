@@ -2264,11 +2264,11 @@
   )
 
   (symbol (lib_id "Connector_Generic:Conn_02x05_Odd_Even") (at 288.671 147.955 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 2f35205b-6d62-4575-af29-c9ef2a306d2b)
-    (property "Reference" "J1" (id 0) (at 289.941 140.208 0))
-    (property "Value" "TODO" (id 1) (at 290.322 155.956 0))
-    (property "Footprint" "solarpanels:GCT_FFC2B28-10-G" (id 2) (at 288.671 147.955 0)
+    (property "Reference" "J1" (id 0) (at 289.941 135.89 0))
+    (property "Value" "TODO" (id 1) (at 289.941 138.43 0))
+    (property "Footprint" "batteryboard:FTS-105-XX-YY-DV-A" (id 2) (at 288.671 147.955 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 288.671 147.955 0)
@@ -3572,7 +3572,7 @@
       (reference "H4") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.2mm_M2_DIN965")
     )
     (path "/2f35205b-6d62-4575-af29-c9ef2a306d2b"
-      (reference "J1") (unit 1) (value "TODO") (footprint "solarpanels:GCT_FFC2B28-10-G")
+      (reference "J1") (unit 1) (value "TODO") (footprint "batteryboard:FTS-105-XX-YY-DV-A")
     )
     (path "/910b876e-ca89-4c16-ac14-53a6bc707f92"
       (reference "L1") (unit 1) (value "22uH-LPS4018-223MR") (footprint "solarpanels:LPS4018")

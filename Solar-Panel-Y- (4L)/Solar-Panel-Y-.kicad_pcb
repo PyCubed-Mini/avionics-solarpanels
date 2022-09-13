@@ -73,7 +73,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "../../New folder/")
+      (outputdirectory "../gerbers/Solar-Panel-Y- (4L) (09-09-22)")
     )
   )
 

@@ -79,7 +79,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "../gerbers/Gerbers-Y- (4L) (11-11-22)/")
+      (outputdirectory "../../SPYM")
     )
   )
 

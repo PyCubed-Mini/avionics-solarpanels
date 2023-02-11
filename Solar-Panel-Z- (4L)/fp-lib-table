@@ -1,4 +1,5 @@
 (fp_lib_table
-  (lib (name "solarpanels")(type "KiCad")(uri "${KIPRJMOD}/../kicad-libs/solarpanels.pretty")(options "")(descr ""))
-  (lib (name "batteryboard")(type "KiCad")(uri "${KIPRJMOD}/../kicad-libs/batteryboard.pretty")(options "")(descr ""))
+  (lib (name "solarpanels")(type "KiCad")(uri "C:/Users/pedro/OneDrive/Ambiente de Trabalho/PROMETHEUS-1/kicad-libs/solarpanels.pretty")(options "")(descr ""))
+  (lib (name "batteryboard")(type "KiCad")(uri "C:/Users/pedro/OneDrive/Ambiente de Trabalho/PROMETHEUS-1/kicad-libs/batteryboard.pretty")(options "")(descr ""))
+  (lib (name "kicad-libs")(type "KiCad")(uri "C:/Users/pedro/OneDrive/Ambiente de Trabalho/PROMETHEUS-1/kicad-libs")(options "")(descr ""))
 )

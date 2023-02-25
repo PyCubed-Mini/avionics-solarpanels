@@ -1,3 +1,5 @@
 (sym_lib_table
-  (lib (name "solarpanels")(type "KiCad")(uri "C:/Users/pedro/OneDrive/Ambiente de Trabalho/PROMETHEUS-1/kicad-libs/solarpanels.kicad_sym")(options "")(descr ""))
+  (version 7)
+  (lib (name "solarpanels")(type "KiCad")(uri "${KIPRJMOD}/../kicad-libs/solarpanels.kicad_sym")(options "")(descr ""))
+  (lib (name "mainboard")(type "KiCad")(uri "${KIPRJMOD}/../kicad-libs/mainboard.kicad_sym")(options "")(descr ""))
 )

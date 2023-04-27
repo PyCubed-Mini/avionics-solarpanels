@@ -4246,7 +4246,7 @@
   (symbol (lib_id "Device:R_US") (at 256.413 106.045 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1d3f8a7a-aee1-47dc-88ff-4fd83be66696)
-    (property "Reference" "R32" (at 261.366 105.029 0)
+    (property "Reference" "R31" (at 261.366 105.029 0)
       (effects (font (size 1.2 1.2)) (justify right))
     )
     (property "Value" "10K" (at 261.366 106.807 0)
@@ -4263,7 +4263,7 @@
     (instances
       (project "Solar-Panel-Z-"
         (path "/b5352a33-563a-4ffe-a231-2e68fb54afa3"
-          (reference "R32") (unit 1)
+          (reference "R31") (unit 1)
         )
       )
     )
@@ -4272,7 +4272,7 @@
   (symbol (lib_id "Device:R_US") (at 321.564 115.062 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2f6dccdf-df93-4459-978b-2e5bf17e3b7b)
-    (property "Reference" "R35" (at 321.564 118.872 90)
+    (property "Reference" "R34" (at 321.564 118.872 90)
       (effects (font (size 1.2 1.2)))
     )
     (property "Value" "1R" (at 321.564 117.094 90)
@@ -4289,7 +4289,7 @@
     (instances
       (project "Solar-Panel-Z-"
         (path "/b5352a33-563a-4ffe-a231-2e68fb54afa3"
-          (reference "R35") (unit 1)
+          (reference "R34") (unit 1)
         )
       )
     )
@@ -4298,7 +4298,7 @@
   (symbol (lib_id "solarpanels:ATB2012") (at 211.328 175.26 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 31b515f5-16d5-4b8a-bd16-965af33430fd)
-    (property "Reference" "U3" (at 211.328 164.465 0)
+    (property "Reference" "BA1" (at 211.328 164.465 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "ATB2012-50011-T000" (at 211.328 166.7764 0)
@@ -4317,7 +4317,7 @@
     (instances
       (project "Solar-Panel-Z-"
         (path "/b5352a33-563a-4ffe-a231-2e68fb54afa3"
-          (reference "U3") (unit 1)
+          (reference "BA1") (unit 1)
         )
       )
     )
@@ -4426,7 +4426,7 @@
   (symbol (lib_id "Device:R_US") (at 261.493 100.965 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 652171b2-685a-4aca-94d3-d720b10a9313)
-    (property "Reference" "R33" (at 261.493 97.155 90)
+    (property "Reference" "R32" (at 261.493 97.155 90)
       (effects (font (size 1.2 1.2)))
     )
     (property "Value" "4.7K" (at 261.493 98.933 90)
@@ -4443,7 +4443,7 @@
     (instances
       (project "Solar-Panel-Z-"
         (path "/b5352a33-563a-4ffe-a231-2e68fb54afa3"
-          (reference "R33") (unit 1)
+          (reference "R32") (unit 1)
         )
       )
     )
@@ -4455,7 +4455,7 @@
     (property "Reference" "JP1" (at 308.61 104.394 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "BurnWire 1" (at 310.515 100.965 0)
+    (property "Value" "BurnWire" (at 310.515 101.981 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "solarpanels:Burn-Wire" (at 304.673 106.172 0)
@@ -4476,9 +4476,9 @@
   )
 
   (symbol (lib_id "Analog_Switch:MAX40200AUK") (at 197.993 71.12 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 766aa9c8-6dc0-456b-8cfe-a781bc7aebb0)
-    (property "Reference" "U4" (at 197.993 62.103 0)
+    (property "Reference" "U3" (at 197.993 62.611 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "MAX40200AUK" (at 197.993 64.643 0)
@@ -4498,7 +4498,7 @@
     (instances
       (project "Solar-Panel-Z-"
         (path "/b5352a33-563a-4ffe-a231-2e68fb54afa3"
-          (reference "U4") (unit 1)
+          (reference "U3") (unit 1)
         )
       )
     )
@@ -4591,7 +4591,7 @@
     (property "Reference" "JP2" (at 321.945 104.394 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "BurnWire 2" (at 323.85 100.965 0)
+    (property "Value" "BurnWire" (at 323.85 101.981 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "solarpanels:Burn-Wire" (at 317.754 106.172 0)
@@ -4967,7 +4967,7 @@
   (symbol (lib_id "Device:R_US") (at 275.717 104.775 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f416666f-98cc-4794-b67b-f35756f42cbd)
-    (property "Reference" "R34" (at 277.241 104.013 0)
+    (property "Reference" "R33" (at 277.241 104.013 0)
       (effects (font (size 1.2 1.2)) (justify right))
     )
     (property "Value" "100K" (at 277.241 105.791 0)
@@ -4984,7 +4984,7 @@
     (instances
       (project "Solar-Panel-Z-"
         (path "/b5352a33-563a-4ffe-a231-2e68fb54afa3"
-          (reference "R34") (unit 1)
+          (reference "R33") (unit 1)
         )
       )
     )

@@ -2454,7 +2454,7 @@
   (symbol (lib_id "Device:R_Small_US") (at 253.365 158.623 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005df5e883)
-    (property "Reference" "R32" (at 253.365 156.591 90)
+    (property "Reference" "R31" (at 253.365 156.591 90)
       (effects (font (size 1.2 1.2)))
     )
     (property "Value" "0R" (at 253.365 161.036 90)
@@ -2471,7 +2471,7 @@
     (instances
       (project "Solar-Panel-Y-"
         (path "/16bd6381-8ac0-4bf2-9dce-ecc20c724b8d"
-          (reference "R32") (unit 1)
+          (reference "R31") (unit 1)
         )
       )
     )

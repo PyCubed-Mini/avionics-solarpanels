@@ -6,8 +6,8 @@
 
   (title_block
     (title "PyCubed Mini")
-    (date "2023-02-19")
-    (rev "B3/01")
+    (date "2023-04-12")
+    (rev "B3/02")
     (company "REx Lab Carnegie Mellon University")
     (comment 1 "Z.Manchester")
     (comment 2 "N.Khera")
@@ -3012,7 +3012,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 195.58 176.53 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005df513ae)
     (property "Reference" "TP1" (at 197.0532 173.5328 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -3037,7 +3037,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 201.93 176.53 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005df51c09)
     (property "Reference" "TP2" (at 203.4032 173.5328 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -3062,7 +3062,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 208.28 176.53 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005df52028)
     (property "Reference" "TP3" (at 209.7532 173.5328 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -3087,7 +3087,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 214.63 176.53 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005df522d7)
     (property "Reference" "TP4" (at 216.1032 173.5328 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -3654,7 +3654,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 207.01 116.84 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 54cae88e-0c1e-4c17-9589-ea6ab2d12694)
     (property "Reference" "H1" (at 211.455 115.824 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -3662,7 +3662,7 @@
     (property "Value" "MountingHole" (at 211.455 118.3609 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" (at 207.01 116.84 0)
+    (property "Footprint" "solarpanels:MountingHole_2.2mm_M2_DIN965_Pad_TopBottom" (at 207.01 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 207.01 116.84 0)
@@ -3679,7 +3679,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 207.01 129.54 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 60e57f7a-b7c2-462d-8ea4-3cfe65fa213f)
     (property "Reference" "H3" (at 211.455 128.2669 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -3687,7 +3687,7 @@
     (property "Value" "MountingHole" (at 211.455 130.8038 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" (at 207.01 129.54 0)
+    (property "Footprint" "solarpanels:MountingHole_2.2mm_M2_DIN965_Pad_TopBottom" (at 207.01 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 207.01 129.54 0)
@@ -3889,7 +3889,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 207.01 123.19 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid af344df5-f8f1-4300-8c40-51d1681a9cb2)
     (property "Reference" "H2" (at 211.455 121.9169 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -3897,7 +3897,7 @@
     (property "Value" "MountingHole" (at 211.455 124.4538 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" (at 207.01 123.19 0)
+    (property "Footprint" "solarpanels:MountingHole_2.2mm_M2_DIN965_Pad_TopBottom" (at 207.01 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 207.01 123.19 0)
@@ -4027,7 +4027,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 207.01 135.89 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid d0e74642-b451-4818-8635-6c6460d97fb7)
     (property "Reference" "H4" (at 211.455 134.4899 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4035,7 +4035,7 @@
     (property "Value" "MountingHole" (at 211.455 137.0268 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" (at 207.01 135.89 0)
+    (property "Footprint" "solarpanels:MountingHole_2.2mm_M2_DIN965_Pad_TopBottom" (at 207.01 135.89 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 207.01 135.89 0)

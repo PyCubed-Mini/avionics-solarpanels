@@ -6157,7 +6157,7 @@
   (gr_text "(4L)" (at 110.63 84.9) (layer "F.SilkS") (tstamp f918d15b-263c-4fa5-882b-67bed40bbca8)
     (effects (font (size 0.635 0.635) (thickness 0.127)))
   )
-  (gr_text "Rev B3/02" (at 105.825 46.665) (layer "B.Mask") (tstamp 34d474a9-86b1-407d-ba2b-a790015b71b6)
+  (gr_text "Rev B3/03" (at 105.825 46.665) (layer "B.Mask") (tstamp 34d474a9-86b1-407d-ba2b-a790015b71b6)
     (effects (font (size 0.635 0.635) (thickness 0.1524)) (justify mirror))
   )
   (dimension (type aligned) (layer "Dwgs.User") (tstamp 49233d30-1464-49e8-b056-b3a041192e1d)

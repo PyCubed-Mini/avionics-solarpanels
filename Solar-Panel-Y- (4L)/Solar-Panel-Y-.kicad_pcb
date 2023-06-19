@@ -6836,7 +6836,7 @@
   (gr_text "JLCJLCJLCJLC" (at 133.2 76.7 90) (layer "F.SilkS") (tstamp fa20e708-ec85-4e0b-8402-f74a2724f920)
     (effects (font (size 0.635 0.635) (thickness 0.1016)))
   )
-  (gr_text "Rev B3/02" (at 105.686402 87.69) (layer "B.Mask") (tstamp 941b68cb-8dea-42ec-971d-9d2180f74394)
+  (gr_text "Rev B3/03" (at 105.686402 87.69) (layer "B.Mask") (tstamp 941b68cb-8dea-42ec-971d-9d2180f74394)
     (effects (font (size 0.635 0.635) (thickness 0.1524)) (justify mirror))
   )
   (dimension (type aligned) (layer "Dwgs.User") (tstamp 2c259e18-2487-4234-beb8-a418462c5aa6)
